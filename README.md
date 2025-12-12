@@ -1,6 +1,5 @@
 # Towards Reliable and Interpretable Predictions in Stroke Detection Using Computed Tomography Scans
-This repository contains the source code accompanying the research paper titled _"Towards Reliable and Interpretable Predictions in Stroke Detection Using Computed Tomography Scans"_ submitted to **SAC2026: The 41st ACM/SIGAPP Symposium On Applied Computing** Conference. The code is provided to support reproducibility and further research.
-This code is part of a **double-blind** peer review submission. **All identifying details have been anonymized** to comply with the guidelines.
+This repository contains the source code accompanying the research paper titled _"Towards Reliable and Interpretable Predictions in Stroke Detection Using Computed Tomography Scans"_ published in **SAC2026: The 41st ACM/SIGAPP Symposium On Applied Computing** Conference. The code is provided to support reproducibility and further research.
 
 ## Setup
 ### Dataset
